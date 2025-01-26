@@ -1,5 +1,5 @@
 X_OR = np.array([[0, 0], [0, 1], [1, 0], [1, 1]], dtype=np.float32)
-y_OR = np.array([[0], [1], [1], [1]], dtype=np.float32)
+Y_OR = np.array([[0], [1], [1], [1]], dtype=np.float32)
 X_XOR = np.array([[0, 0], [0, 1], [1, 0], [1, 1]], dtype=np.float32)
 y_XOR = np.array([[0], [1], [1], [0]], dtype=np.float32)
 
